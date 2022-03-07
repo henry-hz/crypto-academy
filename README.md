@@ -4,13 +4,23 @@
 # Game Theory
 
 * [game-engineering](http://www.ma.huji.ac.il/raumann/documents/GameEngineeringEngSite.pdf)
+* [game-theory](http://www.ma.huji.ac.il/raumann/lectures.htm)
 
 
 
-http://www.ma.huji.ac.il/raumann/lectures.htm
+
+## Consensus
 
 
 
+
+## Networks
+
+* [ethereum-compatibles](https://chainlist.org/)
+
+## Wallets
+
+* [metamask]
 
 Carteiras
 Tokenomics game theory and game 
@@ -24,6 +34,7 @@ Nft
 A16z
 
 ## Analytic tools
+
 * [vulkania](https://vulkania.io/)
 * [into-the-blokc](https://www.intotheblock.com/)
 * [glassnode](https://glassnode.com/)
@@ -34,6 +45,9 @@ A16z
 
 
 
-Crypto to Fiat Lending
-- https://goldfinch.finance/
+## Projects to Study
+
+* [maker-dao]()
+* [gold-finch](https://goldfinch.finance/) - crypto to fiat lending
+* [realt]
 
