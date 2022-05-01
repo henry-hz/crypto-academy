@@ -68,6 +68,11 @@ gpg file_name.asc
 * [dune-analytics](https://dune.xyz)
 
 
+## Side-chains & L2's
+
+* [fuse](https://fuse.io) - Sidechain
+
+
 ## Off-Chain / On-Chain Protocols
 
 * [realt](https://realt.co/)
@@ -88,4 +93,10 @@ gpg file_name.asc
 ## Learn More
 
 * [a16z](https://a16z.com/crypto-startup-school/)
+
+## Learn Coding
 * [eat-the-blocks](https://eattheblocks.com/)
+
+
+## Coding Tool
+* [reference](https://cryptodevhub.io/wiki/ethereum-virtual-machine-tools)
