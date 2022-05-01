@@ -66,6 +66,7 @@ gpg file_name.asc
 * [deepdao](https://deepdao.io/)
 * [loanscan](https://loanscan.io/) - Loan on Defi comparison
 * [dune-analytics](https://dune.xyz)
+* [chain-analysis](https://www.chainalysis.com/)
 
 
 ## Side-chains & L2's
@@ -88,6 +89,11 @@ gpg file_name.asc
 * [aave](https://aave.com/)
 * [maker-dao](https://makerdao.com/)
 * [defi-saver](https://defisaver.com/)
+
+
+## Books
+
+* []
 
 
 ## Learn More
