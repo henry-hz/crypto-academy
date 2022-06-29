@@ -77,13 +77,14 @@ gpg file_name.asc
 
 ## Side-chains & L2's
 
-* [fuse](https://fuse.io) - Sidechain
+* [fuse](https://fuse.io) - fast and low cost side-chain
 
 
 ## Off-Chain / On-Chain Protocols
 
-* [realt](https://realt.co/)
+* [realt](https://realt.co/) - real estate
 * [gold-finch](https://goldfinch.finance/) - crypto to fiat lending
+* [travala](https://travala.com) - hotel and flights
 
 
 ## DeFi Composability
@@ -99,10 +100,11 @@ gpg file_name.asc
 
 ## Books
 
-* []
+* [token-enineering](https://www.amazon.com/Economics-Math-Token-Engineering-DeFi-ebook/dp/B08NCP7K7S)
+* [token-economy](https://www.amazon.com/Token-Economy-Web3-reinvents-Internet/dp/3982103819/)
 
 
-## Learn More
+## Crypto Startups
 
 * [a16z](https://a16z.com/crypto-startup-school/)
 
