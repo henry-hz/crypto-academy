@@ -51,6 +51,12 @@ gpg file_name.asc
 * [metamask](https://metamask.io/)
 * [gnosis](https://gnosis.io/)
 
+
+## Bridges
+
+* [hashflow](https://app.hashflow.com/)
+* [hop](https://app.hop.exchange)
+
 ## Token types (utilities, asset, governance)
 
 * Dao
