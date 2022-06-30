@@ -34,6 +34,9 @@ gpg file_name.asc
 
 * [game-engineering](http://www.ma.huji.ac.il/raumann/documents/GameEngineeringEngSite.pdf)
 * [game-theory](http://www.ma.huji.ac.il/raumann/lectures.htm)
+https://www.wolfram.com/broadcast/video.php?c=104&p=2&v=3526
+https://www.youtube.com/user/gametheoryonline
+https://ncase.me/trust/
 
 
 ## Consensus
