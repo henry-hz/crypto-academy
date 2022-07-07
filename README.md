@@ -76,6 +76,8 @@ https://ncase.me/trust/
 * [loanscan](https://loanscan.io/) - Loan on Defi comparison
 * [dune-analytics](https://dune.xyz)
 * [chain-analysis](https://www.chainalysis.com/)
+* [defilama](https://defillama.com) - see all the crypto market
+* [maker-analytics](https://maker.blockanalitica.com/) - see DAI risk
 
 
 ## Side-chains & L2's
