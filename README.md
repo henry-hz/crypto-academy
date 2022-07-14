@@ -59,6 +59,8 @@ https://ncase.me/trust/
 
 * [hashflow](https://app.hashflow.com/)
 * [hop](https://app.hop.exchange)
+* [connext](https://bridge.connext.network/)
+* [across](https://across.to)
 
 ## Token types (utilities, asset, governance)
 
